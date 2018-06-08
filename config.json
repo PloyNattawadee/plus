@@ -1,0 +1,26 @@
+{
+    "local": {
+        "username": "root",
+        "password": "root",
+        "database": "dbfashionplus",
+        "dialect": "mysql"
+    },
+    "development" : {
+        "username": "root",
+        "password": "root",
+        "database": "dbfashionplus",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "root",
+        "database": "dbfashionplus",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "root",
+        "database": "dbfashionplus",
+        "dialect": "mysql"
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "fashionplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "body-parser": "^1.18.3",
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "cookies": "^0.7.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-myconnection": "^1.0.4",
+    "express-validator": "^5.2.0",
+    "get-json": "^1.0.0",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "passport-local": "^1.0.0",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "query-string": "^6.1.0",
+    "sequelize": "^4.37.10",
+    "sequelize-cli": "^4.0.0"
+  }
+}
